@@ -8,3 +8,5 @@ defflow off
 
 hardstatus alwayslastline "%-w%{= BW}%50>%n %t%{-}%+w%<"
 
+shell -$SHELL
+
