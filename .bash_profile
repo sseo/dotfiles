@@ -34,5 +34,4 @@ alias ln='ln -i'
 # }}}
 
 # Prompts
-#PS1='[\u@\h \W]\$ '  # To leave the default one
 export PS1="[\[\e[36m\]\u\[\e[0m\]@\[\e[32m\]\h\[\e[0m\]:\w] "
