@@ -1,0 +1,10 @@
+startup_message off
+
+vbell off
+vbellwait 0
+
+defscrollback 8192
+defflow off
+
+hardstatus alwayslastline "%-w%{= BW}%50>%n %t%{-}%+w%<"
+
